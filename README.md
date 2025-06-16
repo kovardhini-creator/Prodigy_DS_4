@@ -57,7 +57,7 @@ Each slice shows the percentage of tweets falling into each sentiment category.
 -- textblob – for sentiment analysis
 
 
-💻 How to Run
+# How to Run
 
 1. Open the .ipynb notebook in Google Colab or Jupyter Notebook.
 
