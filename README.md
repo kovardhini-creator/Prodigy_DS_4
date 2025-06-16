@@ -34,7 +34,7 @@ This project analyzes and visualizes sentiment patterns in social media-like dat
 
 
 
-📈 Output
+# Output
 
 The project generates a pie chart representing sentiment classification:
 
@@ -65,13 +65,11 @@ Each slice shows the percentage of tweets falling into each sentiment category.
 
 3. View the printed DataFrame and the sentiment distribution pie chart.
 
-
-No external dataset or file upload is required.
-
+4. No external dataset or file upload is required.
 
 📘 Related Dataset (Optional)
 
-While this demo uses hardcoded sample data, a larger dataset is available here:
+ While this demo uses hardcoded sample data, a larger dataset is available here:
 🔗 Twitter Sentiment Analysis Dataset – Kaggle
 
 
