@@ -1,5 +1,4 @@
-
-💬 Sentiment Analysis on Sample Social Media Data
+Sentiment Analysis on Sample Social Media Data
 
 Task-04 | Prodigy Infotech Internship
 
@@ -49,7 +48,7 @@ Each slice shows the percentage of tweets falling into each sentiment category.
 
 
 
-🛠️ Libraries Used
+# Libraries Used
 
 -- pandas – for data handling
 
